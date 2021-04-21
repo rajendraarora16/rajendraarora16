@@ -15,4 +15,4 @@ Our brain's Neurons is powerful but not so serious towards work. Believe or not 
 
 Cool..!! Isn't?
 
-Well, I'm sharing my thoughts with you just because if you think right as well what you think the same and capable to change our world, Follow me on. Github. Because i need you. 😁
+Well, I'm sharing my thoughts with you just because if you think right as well what you think the same and capable to change our world, Follow me on Github. Because i need you. 😁

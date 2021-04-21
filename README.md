@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajendraarora16)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arorar16/)
 
-My name's **Raj**! I love coding and debugging. 
+My name is **Raj**! I love coding and debugging. 
 
 I love robots, just curious to see how our brain actually works. So, that i could tend to design my own new brain(new robot with powerful brain who could teach me as well could teach us what we are.)
 

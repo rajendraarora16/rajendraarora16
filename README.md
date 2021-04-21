@@ -16,3 +16,8 @@ Our brain's Neurons is powerful but not so serious towards work. Believe or not 
 Cool..!! Isn't?
 
 Well, I'm sharing my thoughts with you just because if you think right as well what you think the same and capable to change our world, Follow me on Github. Because i need you. 😁
+
+
+![Rajendra Arora Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=rajendraarora16&show_icons=true&include_all_commits=true&theme=radical)
+
+![Rajendra Arora Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rajendraarora16&layout=compact&theme=radical)

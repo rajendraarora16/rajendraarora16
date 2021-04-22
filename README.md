@@ -9,7 +9,7 @@ My name is **Raj**! I love coding and debugging.
 
 I love robots, just curious to see how our brain actually works. So, that i could tend to design my own new brain(new robot with powerful brain who could teach me as well could teach us what we are.)
 
-Giving a shit baby after marriage is just like, You give everything ready made(lol 😜 ) including your brain algorithms, movement, Speech API etc. But designing new brain is just like you put mathematical formulas. that's it! Don't need to be wait for a years to understand any sort of topics, Don't need to send college, school for study.
+Giving a baby after marriage is just like, You give everything ready made(lol 😜 ) including your brain algorithms, movement, Speech API etc. But designing new brain is just like you put mathematical formulas. that's it! Don't need to be wait for a years to understand any sort of topics, Don't need to send college, school for study.
 
 Our brain's Neurons is powerful but not so serious towards work. Believe or not but we're lazy towards some kind of work. 😬
 

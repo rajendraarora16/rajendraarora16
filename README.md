@@ -13,4 +13,4 @@ My name is **Raj**! I love coding and debugging.
 
 ![Rajendra Arora Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rajendraarora16&layout=compact&theme=radical)
 
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rajendraarora16&theme=dark" width="48%" >
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajendraarora16&theme=dark" width="48%">

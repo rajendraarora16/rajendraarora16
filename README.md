@@ -4,6 +4,8 @@
 [![Website](https://img.shields.io/badge/website-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://rajendraarora.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajendraarora16)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arorar16/)
+[![Stackoverflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2802622/rajendra-arora/)
+
 
 My name is **Raj**! I love coding and debugging. 
 

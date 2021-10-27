@@ -7,7 +7,14 @@
 [![Stackoverflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2802622/rajendra-arora/)
 
 
-My name is **Raj**! I love coding and debugging. 
+My name is **Raj**! I love coding and debugging.
+
+💻 Developer by day<br/> 
+🎮 Gamer by night <br/>
+☕ Sometimes coffee lover <br/> 
+🎮 A good player in call of duty <br/> 
+📷 Sometimes love photography! <br/>
+
 
 ![Rajendra Arora Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=rajendraarora16&show_icons=true&include_all_commits=true&theme=radical)
 
